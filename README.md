@@ -2,7 +2,7 @@
 Olá, sou Hermana Gomes.
 Sou formada em administração pela Universidade Federal do Piauí em 2015 e desde então tenho acumulado mais alguns cursos na bagagem, na aera de marketing digital, liderança e RH.
 Hoje considero-me uma estudante, pois depois de algumas experiências profissionais, decidi mudar de carreira e virar programadora.
-Comecei minha jornada há pouco tempo e decidi  me conectar a outras pessoas e empresas da area. Estou no caminho para me tornar um dev front-end, mas claro, sempre em busca de me aprimorar, para quem sabe um dia chegue a ser full stack.
+Comecei minha jornada há pouco tempo e decidi  me conectar a outras pessoas e empresas da area. Estou no caminho para me tornar um dev front-end, mas claro, sempre em busca de me aprimorar, rumo a ser full stack.
 Tenho 30 anos e decidi mudar de profissão. Idade é só um número. Acredito que não podemos nos manter em um caixinha a vida toda e que devemos explorar novos horizontes se assim precisarmos. <p>
 
 </div>
