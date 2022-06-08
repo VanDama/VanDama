@@ -16,7 +16,7 @@ Tenho 30 anos e decidi mudar de profissão. Idade é só um número. Acredito qu
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Managif"height="200" width="180" src="https://cdn.discordapp.com/attachments/742825804265816139/870862909603991592/Webp.net-gifmaker.gif">
+  <img align="right" alt="Managif"height="200" width="180" src="https://cdn.discordapp.com/attachments/508822895997222912/984146490366763128/Webp.net-gifmaker.png">
   
 </div>
 
